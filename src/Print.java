@@ -14,6 +14,5 @@ public class Print {
 
         System.out.println(myPi);
         System.out.println(degrees);
-
     }
 }
